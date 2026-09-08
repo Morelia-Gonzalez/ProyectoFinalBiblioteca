@@ -1,0 +1,16 @@
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\bin\Debug\net8.0-windows\Data\libros.csv
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\bin\Debug\net8.0-windows\BibliotecaApp.exe
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\bin\Debug\net8.0-windows\BibliotecaApp.deps.json
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\bin\Debug\net8.0-windows\BibliotecaApp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\bin\Debug\net8.0-windows\BibliotecaApp.dll
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\bin\Debug\net8.0-windows\BibliotecaApp.pdb
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.dll
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\refint\BibliotecaApp.dll
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.pdb
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\ref\BibliotecaApp.dll
+c:\Users\DELL\OneDrive\Documentos\Proyecto 1 E II\Nueva carpeta\obj\Debug\net8.0-windows\BibliotecaApp.sourcelink.json
