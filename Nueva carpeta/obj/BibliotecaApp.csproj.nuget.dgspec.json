@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj": {}
+    "c:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj": {
+    "c:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj",
+        "projectUniqueName": "c:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj",
         "projectName": "BibliotecaApp",
-        "projectPath": "C:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj",
+        "projectPath": "c:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\BibliotecaApp.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\obj\\",
+        "outputPath": "c:\\Users\\DELL\\OneDrive\\Documentos\\GitHub\\ProyectoFinalBiblioteca\\Nueva carpeta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
